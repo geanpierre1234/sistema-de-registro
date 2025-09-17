@@ -3,3 +3,4 @@
 para ejecutar el sistema , debe poder 
 ```nom install react ```
 
+sitema de Resgistro2 
